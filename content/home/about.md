@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = ""
 
 # Order that this section will appear in.
 weight = 5
@@ -18,9 +18,14 @@ weight = 5
 [[education.courses]]
   course = "PhD in Mathematics"
   institution = "Pennsylvania State University"
-  year = 2016 - Present
+  year = 2016
 
-[[education.courses]]
+  [[education.courses]]
+  course = "BSc in Mathematics"
+  institution = "University of Texas at San Antonio"
+  year = 2008
+  
+  [[education.courses]]
   course = "BSc in Mathematics"
   institution = "University of Texas at San Antonio"
   year = 2008
