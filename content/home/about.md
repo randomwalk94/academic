@@ -10,29 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Partial Differential Equations",
+    "Probability"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Mathematics"
+  institution = "Pennsylvania State University"
+  year = 2016 - Present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Mathematics"
+  institution = "University of Texas at San Antonio"
   year = 2008
  
 +++
 
 # Biography
 
-Hai Le is a Mathematics PhD Student at Penn State. 
+This is my new home!
